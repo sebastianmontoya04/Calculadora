@@ -1,0 +1,44 @@
+.container{
+    background-color: grey;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    border-style: solid;
+    margin-top: 2%;
+}
+input{
+    padding: 5px;
+    margin: 20px;
+    border-style: solid;
+    
+}
+button{
+ justify-content: space-between;
+ padding: 20px;
+ margin: 5px;
+ width: 90px;
+ border-style: solid;
+}
+.center{
+    background-color: antiquewhite;
+    width: 90px;
+}
+.titulo{
+    font-size: 20px;
+    
+}
+.titulo1{
+    text-align: center;
+    font-size: 40px;
+    padding: 2vh;
+}
+#resultado{
+    padding: 10px;
+    width: 40%;
+    margin: 10px;
+}
+p{
+    background-color: antiquewhite;
+    border-style: solid;    
+}
+
